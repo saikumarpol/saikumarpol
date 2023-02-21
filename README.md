@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saikumarpol
-- i'm a developer
+- i'm a  MERN-Stack developer
 - i'm a prgramming enthusiastic
-- 👀 I’m interested in learning new technologies
+- 👀 I’m interested in learning new technologies AI,IOT,ROBOTICS, AEROSPACE,SPACE-technologies
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
