@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @saikumarpol
 - i'm a prgramming enthusiastic
 - i'm a  MERN-Stack developer
+- i'm intersted to doing projects on Web ,Python, ML
 - 👀 I’m interested in learning new technologies AI,IOT,ROBOTICS, AEROSPACE,SPACE-technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  saikumarpola4@gmail.com...
