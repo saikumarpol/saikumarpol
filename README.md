@@ -1,143 +1,167 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250" />
-</p>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<h1 align="center">Hi 👋, I'm Saikumar Pola</h1>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Saikumar Pola</strong>
+</h1>
 
-<h3 align="center">
+<h3>
 Software Development Engineer | MERN • Python • AI Systems • System Design
 </h3>
 
-<p align="center">
-  <a href="mailto:saikumarpola4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saikumarpola4@gmail.com-red?style=for-the-badge" />
-  </a>
-  <a href="https://sai-kumar-pola-7eiu.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/saikumarpol">
-    <img src="https://img.shields.io/badge/GitHub-saikumarpol-black?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-India-success?style=for-the-badge" />
+<div align="left">
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+<p>
+Software Development Engineer with <strong>3+ years of experience</strong> building scalable full-stack and AI-powered systems.
+Strong foundation in <strong>Data Structures, System Design, API development, and Cloud Deployment</strong>.
 </p>
 
----
+<ul>
+<li>Built government-scale digital platforms</li>
+<li>Improved API performance by 35%</li>
+<li>Reduced manual screening workload by 60% using AI</li>
+<li>Designed secure authentication & role-based systems</li>
+<li>Deployed production-ready applications</li>
+</ul>
 
-# 🚀 About Me
+<p>
+  <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+  <a href="mailto:saikumarpola4@gmail.com">
+    <img src="https://img.shields.io/badge/📧_saikumarpola4@gmail.com-1e1e2e?style=for-the-badge" />
+  </a>
+  <a href="https://sai-kumar-pola-7eiu.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Live-1e1e2e?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/saikumarpol">
+    <img src="https://img.shields.io/badge/GitHub-saikumarpol-1e1e2e?style=for-the-badge" />
+  </a>
+</p>
 
-Software Development Engineer with **3+ years of experience** building scalable full-stack and AI-powered systems.
+</div>
 
-I specialize in:
-
-- Designing production-ready MERN applications  
-- Building high-performance REST APIs  
-- Optimizing backend systems (Improved response time by 35%)  
-- Developing AI-powered automation platforms  
-- Deploying scalable cloud-native systems  
-
-I’ve built government-scale digital platforms and AI systems that reduced manual workload by 60%.
-
-I focus on writing clean architecture, scalable backend systems, and user-centric digital products.
+<br clear="all"/>
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages  
-Python • JavaScript • Java • C  
+### 💻 Languages
+Python  
 
-### 🎨 Frontend  
-React.js • React Native • AngularJS • HTML5 • CSS3  
+### 🎨 Frontend
+React.js • React Native  • HTML5 • CSS3  
 
-### ⚙️ Backend  
-Node.js • Express.js • Flask • FastAPI • Spring Boot  
+### ⚙️ Backend
+Node.js • Express.js • Flask • FastAPI   
 
-### 🗄️ Database  
+### 🗄️ Database
 MongoDB  
 
-### ☁️ DevOps & Cloud  
-AWS • GitHub Actions • Nginx • GCP  
+### ☁️ DevOps & Cloud
+AWS • GitHub Actions • Nginx  
 
-### 📊 Tools  
-Git • Postman • ELK Stack • VS Code  
-
-### 🧠 Core CS  
-Data Structures & Algorithms • OOPS • REST APIs • System Design  
+### 🧠 Core CS
+Data Structures • OOPS • REST APIs • System Design  
 
 ---
 
 # 💼 Experience
 
-## 🏢 Software Development Engineer  
-Raj Reddy Center for Technology and Society (Hyderabad)  
-Oct 2022 – Present
+## 🏢 Raj Reddy Center for Technology and Society  
+Software Development Engineer | Oct 2022 – Present
 
-- Built scalable MERN applications from scratch  
-- Developed **SELSCA**, a digital governance platform for Telangana Government Schools  
-- Improved system response time by 35% through backend optimization  
+- Designed and developed scalable full-stack applications using MERN  
+- Built **SELSCA**, Telangana Government’s centralized academic governance system  
+- Improved API response time by 35%  
 - Implemented secure authentication & role-based access control  
-- Optimized MongoDB queries for high-performance production systems  
-- Collaborated with designers, product managers, and stakeholders  
-
----
-
-## 🏢 Software Intern  
-Wipro – Turbo Velocity Program  
-Apr 2022 – Jun 2022
-
-- Built a cloud-based vegetable marketplace platform  
-- Frontend: AngularJS  
-- Backend: Spring Boot  
-- Deployed using Google Cloud services  
-- Worked on enterprise-level application architecture  
+- Optimized MongoDB queries for high-performance operations  
+- Collaborated with designers, product managers & stakeholders  
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🧠 Automated Malnutrition & Child Growth Tracking System  
-AI-powered health monitoring system  
+**AI & Full Stack Developer**
 
-- Extracted height & weight from child images using Computer Vision  
-- Compared results with WHO growth standards  
-- Auto-classified: Normal / Underweight / Stunted / Wasted  
-- Reduced manual screening effort by 60%  
+AI-powered health analytics platform.
 
-**Tech:** Python • FastAPI • React.js • Computer Vision  
+### What I Built:
+- Extracted child height & weight from images using Computer Vision
+- Compared metrics with WHO growth standards
+- Automatically classified children as:
+  - Normal
+  - Underweight
+  - Overweight
+  - Obesity
+- Built dashboard for health workers:
+  - Upload images
+  - Track growth history
+  - Generate automated nutrition reports
+
+### Impact:
+✔ Reduced manual screening workload by 60%  
+✔ Improved early detection accuracy  
+
+**Tech:** Python • Computer Vision • FastAPI • React.js  
 
 ---
 
 ## 🏫 SELSCA – Education Administration System  
-Government-scale education management platform  
+**Developer Engineer**
 
-- Student enrollment & profiling  
+Large-scale education management platform for Telangana Government schools.
+
+### Modules:
+- Student enrollment profiling  
 - Attendance automation  
 - Digital grade reporting  
-- Centralized academic monitoring  
+- Academic performance monitoring  
+
+Currently used as centralized academic administration system.
 
 **Tech:** MERN Stack  
 
 ---
 
-## 🌍 Badal – Crowdsourcing Platform  
-Platform connecting NGOs with developers  
+## 🌍 Badal – Crowdsourcing Platform for Social Causes  
+**Software Development Engineer**
 
+Platform connecting NGOs with corporates & developers.
+
+### Developed:
 - Secure NGO onboarding system  
 - Problem tracking workflows  
 - Developer collaboration modules  
-- ELK-based monitoring system  
+- ELK-based monitoring & performance tracking  
 
 **Tech:** MERN Stack • ELK Stack  
 
 ---
 
-## 🤖 TA-Bot – NLP Grading Assistant  
+## 🤖 TA-Bot – NLP Powered Grading Assistant  
 
-- Automated classroom answer analysis  
-- Generated performance insights  
-- Reduced teacher grading effort by 50%  
+- Automated student answer analysis  
+- Evaluated classroom engagement  
+- Generated automated performance insights  
+- Reduced teacher grading workload by 50%  
 
 **Tech:** NLP • FARM Stack  
+
+---
+
+## 💻 Tech Hub – Coding Placement Platform  
+**Team Lead**
+
+- Coding practice environment  
+- Placement resources  
+- Peer doubt solving  
+- Managed system architecture & deployment  
+- Achieved 500+ active users in first phase  
+
+**Tech:** MERN Stack  
 
 ---
 
@@ -166,24 +190,15 @@ Platform connecting NGOs with developers
 # 🏆 Achievements
 
 - Winner – India’s Largest Robotics Championship  
-- 3rd Prize – 24-Hour Hackathon (SmartBridge IBM)  
-- Solved 300+ DSA problems (LeetCode & HackerEarth)  
-- Shortlisted – National Bootcamp + Hackathon  
+- 3rd Prize – 24hr Hackathon  
+- 100+ DSA problems solved  
+- National Bootcamp Shortlisted  
 - Active mentor for junior developers  
 
 ---
 
-# 📄 Research
+# 🤝 Let’s Build Scalable Systems
 
-**AI Framework for Scalable Automated Continuous Formative Assessment**  
+Passionate about building high-performance backend systems, AI-powered platforms, and real-world impact solutions.
 
-Co-authored research applying NLP and Computer Vision to automate classroom assessments.  
-Published in collaboration with RCTS & IIIT Hyderabad.
-
----
-
-# 🤝 Let's Build Something Impactful
-
-I’m passionate about building scalable backend systems, AI-powered platforms, and solving meaningful real-world problems.
-
-If you're hiring or building something ambitious — let's connect 🚀
+If you're hiring or building something ambitious — let’s connect 🚀
