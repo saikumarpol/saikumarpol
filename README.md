@@ -171,7 +171,7 @@ Platform connecting NGOs with corporates & developers.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=saikumarpol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumarpol&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=saikumarpol&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarpol&layout=compact&theme=tokyonight&hide_border=true" />
 
