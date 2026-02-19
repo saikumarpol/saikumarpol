@@ -1,73 +1,56 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<img align="center" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" />
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Saikumar Pola</strong>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
+  Hi, I'm Saikumar Pola
 </h1>
 
-<h3>Software Development Engineer | MERN • Python • System Design • AI</h3>
+<h3 align="center">
+  Software Development Engineer | MERN • Python • AI Systems • System Design
+</h3>
 
-<div align="left">
+<p align="center">
+  <a href="mailto:saikumarpola4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saikumarpola4@gmail.com-red?style=for-the-badge" />
+  </a>
+  <a href="https://sai-kumar-pola-7eiu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/saikumarpol">
+    <img src="https://img.shields.io/badge/GitHub-saikumarpol-black?style=for-the-badge" />
+  </a>
+</p>
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+---
 
-<p>
-I’m a <strong>Software Development Engineer with 3+ years of experience</strong> building scalable full-stack applications and AI-driven platforms.  
+## 🚀 About Me
+
+Software Development Engineer with **3+ years of experience** building scalable full-stack and AI-powered applications.
 
 I specialize in:
-• Designing high-performance MERN applications  
-• Building REST APIs & scalable backend systems  
-• AI-powered automation systems  
-• Government-scale digital platforms  
 
-I love solving real-world problems through clean architecture, optimized systems, and user-centric product design.
-</p>
+- Designing production-ready MERN stack applications  
+- Building high-performance REST APIs  
+- Optimizing backend systems (Improved API response by 35%)  
+- Developing AI-powered automation platforms  
+- Deploying cloud-native systems on AWS & GCP  
 
-<p>
-  <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-  <a href="mailto:saikumarpola4@gmail.com">
-    <img src="https://img.shields.io/badge/📧_saikumarpola4@gmail.com-1e1e2e?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/💼_Open_to_Product_Based_Roles-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_3+_Years_Experience-1e1e2e?style=for-the-badge" />
-</p>
+I’ve built government-scale platforms used by Telangana schools and AI systems that reduced manual workload by 60%.
 
-</div>
-
-<br clear="all" />
+I focus on writing clean architecture, scalable systems, and user-centric digital products.
 
 ---
 
-## 🌐 Portfolio & Socials
+# 🛠️ Tech Stack
 
-<p align="left">
-
-<a href="https://sai-kumar-pola-7eiu.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge" />
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-</a>
-
-<a href="https://github.com/your-github">
-  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# 🛠️ Technical Skills
-
-### 💻 Programming Languages
+### 💻 Languages
 Python • JavaScript • Java • C
 
 ### 🎨 Frontend
 React.js • React Native • AngularJS • HTML5 • CSS3
 
 ### ⚙️ Backend
-Node.js • Express.js • Flask • FastAPI
+Node.js • Express.js • Flask • FastAPI • Spring Boot
 
 ### 🗄️ Database
 MongoDB
@@ -75,7 +58,7 @@ MongoDB
 ### ☁️ DevOps & Cloud
 AWS • GitHub Actions • Nginx • GCP
 
-### 🧰 Tools
+### 📊 Tools
 Git • Postman • ELK Stack • VS Code
 
 ### 🧠 Core CS
@@ -83,113 +66,115 @@ Data Structures & Algorithms • OOPS • REST APIs • System Design
 
 ---
 
-# 💼 Work Experience
+# 💼 Experience
 
-## 🏢 Raj Reddy Center for Technology and Society (RCTS), Hyderabad  
-**Software Development Engineer | Oct 2022 – Present**
+## 🏢 Software Development Engineer  
+Raj Reddy Center for Technology and Society (Hyderabad)  
+Oct 2022 – Present
 
-• Built scalable MERN stack applications from scratch  
-• Developed **SELSCA** – Telangana Government School Digital Governance Platform  
-• Improved API response time by **35%** via backend optimization  
-• Implemented Role-Based Access Control (RBAC) & secure authentication  
-• Optimized MongoDB queries for high-performance operations  
-• Collaborated with designers & stakeholders for production-ready releases  
+- Built scalable MERN applications from scratch
+- Developed **SELSCA**, a digital governance platform for Telangana Government Schools
+- Improved system response time by 35% through backend optimization
+- Implemented secure authentication & role-based access control
+- Optimized MongoDB queries for high-performance systems
+- Collaborated with product managers & stakeholders for production deployment
 
 ---
 
-## 🏢 Wipro – Turbo Velocity Program  
-**Software Intern | Apr 2022 – Jun 2022**
+## 🏢 Software Intern  
+Wipro – Turbo Velocity Program  
+Apr 2022 – Jun 2022
 
-• Built a cloud-based vegetable marketplace platform  
-• Frontend: AngularJS  
-• Backend: Spring Boot  
-• Deployed using Google Cloud services  
-• Worked on enterprise-grade cloud-native architecture  
+- Built cloud-based vegetable marketplace platform
+- Frontend: AngularJS
+- Backend: Spring Boot
+- Deployed using Google Cloud services
+- Worked on enterprise-level architecture
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 Automated Malnutrition & Child Growth Tracking System  
-AI-powered child growth detection using Computer Vision  
-• Extracted height/weight from images  
-• Compared with WHO growth standards  
-• Auto-classified: Normal / Underweight / Stunted / Wasted  
-• Reduced manual workload by 60%  
+## 🧠 Automated Malnutrition & Child Growth Tracking System
+AI-powered health monitoring system
 
-**Tech:** Python • FastAPI • React.js • Computer Vision
+- Extracted child height & weight using Computer Vision
+- Compared data with WHO growth standards
+- Automatically classified children (Normal / Underweight / Stunted / Wasted)
+- Reduced manual screening effort by 60%
 
----
-
-## 🏫 SELSCA – Education Administration System  
-Large-scale education management platform  
-• Student enrollment  
-• Attendance automation  
-• Digital grade reporting  
-• Centralized governance system  
-
-**Tech:** MERN Stack
+Tech: Python • FastAPI • React.js • Computer Vision
 
 ---
 
-## 🌍 Badal – Crowdsourcing Platform  
-Connecting NGOs with developers  
-• NGO onboarding system  
-• Problem tracking workflows  
-• Developer collaboration modules  
-• ELK-based monitoring  
+## 🏫 SELSCA – Education Administration System
+Government-scale education management platform
 
-**Tech:** MERN Stack • ELK Stack
+- Student enrollment & profiling
+- Attendance automation
+- Digital grade reporting
+- Centralized academic monitoring
 
----
-
-## 🤖 TA-Bot – NLP Grading Assistant  
-• Automated classroom answer analysis  
-• Generated performance insights  
-• Reduced teacher grading effort by 50%  
-
-**Tech:** NLP • FARM Stack
+Tech: MERN Stack
 
 ---
 
-## 💻 Tech Hub – Coding Placement Platform  
-• Coding practice  
-• Placement resources  
-• Peer doubt solving  
-• 500+ active users in first phase  
+## 🌍 Badal – Crowdsourcing Platform
+NGO & Developer collaboration platform
 
-**Tech:** MERN Stack
+- Secure NGO onboarding
+- Problem tracking workflows
+- Developer collaboration modules
+- ELK-based monitoring system
+
+Tech: MERN Stack • ELK Stack
+
+---
+
+## 🤖 TA-Bot – NLP Grading Assistant
+
+- Automated answer evaluation
+- Generated classroom performance insights
+- Reduced teacher grading workload by 50%
+
+Tech: NLP • FARM Stack
 
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github&theme=dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saikumarpol&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumarpol&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarpol&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
 # 🏆 Achievements
 
-🏅 Winner – India’s Largest Robotics Championship  
-🥉 3rd Prize – 24hr Hackathon (SmartBridge IBM)  
-📚 Solved 300+ DSA Problems (LeetCode & HackerEarth)  
-🎤 Public Speaker & Tech Mentor  
-🏁 Shortlisted – National Bootcamp + Hackathon (SmartBridge)
+- Winner – India’s Largest Robotics Championship  
+- 3rd Prize – 24hr Hackathon (SmartBridge IBM)  
+- Solved 300+ DSA problems (LeetCode & HackerEarth)  
+- Shortlisted – National Bootcamp + Hackathon  
+- Active mentor for junior developers  
 
 ---
 
-# 📄 Research & Publications
+# 📄 Research
 
-📘 AI Framework for Scalable Automated Continuous Formative Assessment  
-Co-authored research applying NLP & Computer Vision for classroom automation  
-Published in collaboration with RCTS, IIIT Hyderabad  
+AI Framework for Scalable Automated Continuous Formative Assessment  
+Co-authored research applying NLP & Computer Vision in classroom automation.  
+Published in collaboration with RCTS & IIIT Hyderabad.
 
 ---
 
-# ❤️ Let's Build Something Impactful
+# 🤝 Let’s Build Scalable Products
 
-I’m passionate about building scalable systems, AI-powered platforms, and solving meaningful real-world problems.
+I’m passionate about building high-impact systems, AI-powered tools, and scalable backend architectures.
 
-If you're hiring or building something exciting — let's connect 🚀
+If you're hiring or building something ambitious — let’s connect.
